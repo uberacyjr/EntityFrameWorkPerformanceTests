@@ -9,7 +9,7 @@ using System.Linq.Expressions;
 namespace Project.Domain.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class Perfomance_Tests
     {
         private MyDbContext _context;
         [TestInitialize]
